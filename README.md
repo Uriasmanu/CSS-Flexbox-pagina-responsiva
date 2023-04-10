@@ -1,28 +1,16 @@
-# Alura - Flexbox e layout responsivo
+# AluraPlay
 
-Este projeto é um resultado da parte pratica do curso da alura que visa ensinar a criar layouts responsivos por meio do flebox.
-
-## Pré-requisitos
-
-Para rodar o projeto localmente, é necessário ter um navegador web instalado em seu computador.
-
-## Como rodar o projeto
-
-Clone o repositório em seu computador.
-Abra o arquivo index.html em seu navegador web.
+Este é um projeto desenvolvido durante o curso de CSS Flexbox da Alura. O objetivo do projeto é construir uma página de reprodução de vídeos que utilize o conceito de Flexbox para o posicionamento dos elementos.
 
 ## Tecnologias utilizadas
 
-- HTML
-- CSS
+HTML
+CSS (Flexbox)
 
-## Estrutura do projeto
+## Como utilizar
 
-index.html: arquivo principal da página.
-css/reset.css: arquivo com reset de estilo para garantir que a página se comporte de forma consistente em diferentes navegadores.
-css/estilos.css: arquivo com os estilos específicos da página.
-img/: pasta com as imagens utilizadas na página.
+Abra o arquivo index.html no seu navegador.
 
-## Funcionalidades
+## 
 
-A página possui um cabeçalho com um menu de navegação e um campo de busca. O menu lateral permite acessar diferentes categorias de vídeos e canais. A página não possui nenhuma funcionalidade de reprodução de vídeos, mas serve como um esqueleto para uma página desse tipo.
+Contribuições são sempre bem-vindas! Se você encontrou algum bug ou deseja implementar alguma funcionalidade, abra uma issue ou faça um pull request.
